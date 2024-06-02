@@ -1,1 +1,1 @@
-Learning theme setup
+Learning shopify theme setup
